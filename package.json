@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/arussellk/heroku-playground/issues"
   },
-  "homepage": "https://github.com/arussellk/heroku-playground#readme"
+  "homepage": "https://github.com/arussellk/heroku-playground#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
