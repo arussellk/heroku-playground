@@ -1,0 +1,23 @@
+{
+  "name": "heroku-playground",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arussellk/heroku-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arussellk/heroku-playground/issues"
+  },
+  "homepage": "https://github.com/arussellk/heroku-playground#readme"
+}
